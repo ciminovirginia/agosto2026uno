@@ -2,7 +2,7 @@ nombres = []
 notas = []
 
 # Carga de datos
-for i in range(5): #aca hay un for
+for i in range(25): #aca hay un for
     nombre = input("Ingrese el nombre del alumno: ")
     nombres.append(nombre)
     
